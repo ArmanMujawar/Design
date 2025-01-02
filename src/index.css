@@ -2,11 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer{
-    body{
-        @apply font-[Poppins]
-    }
-    h1{
-        @apply text-3xl md:text-4xl font-bold text-cyan-700
-    }
-}
