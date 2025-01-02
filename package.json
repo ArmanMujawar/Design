@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ArmanMujawar.github.io/travel",
-  "name": "travel", 
+  "homepage": "https://ArmanMujawar.github.io/Design",
+  "name": "design",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "firebase": "^11.1.0",
-    "gh-pages": "^6.2.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-slick": "^0.30.3",
