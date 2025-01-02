@@ -17,10 +17,6 @@
   "build": "vite build",
   
     
-  
-  
-  
-    
   "lint": "eslint .",
   
     
